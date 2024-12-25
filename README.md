@@ -18,7 +18,8 @@
 - it will create `.csv` file for every subject you enter and seperate every `.csv` file accoriding the subject
 - You can view the attendance after clicking `View Attendance` button. It will show record in tabular format.
 
----Code Requirements---
+## ---Code Requirements---
+
 Python 3.6+
 Opencv(pip install opencv-python)
 Tkinter(Available in python)
